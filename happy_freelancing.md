@@ -1,11 +1,11 @@
-#Happy Freelancing
+# Happy Freelancing
 
 
 
 Je m’appelle Thibaut Assus, j’ai 30 ans, je suis freelance en développement web et ma technologie de prédilection est le Ruby on Rails. J’ai maintenant un peu d’expérience dans le domaine du freelancing et ce document a pour but de partager avec vous une partie de cette expérience.
 
 
-##Mon parcours de développeur Ruby
+## Mon parcours de développeur Ruby
 
 
 En 2010, je ne connaissais que le travail en France. Je développais déjà à l’époque en Ruby mais mon expérience avec les clients était inexistante. Mon travail me satisfaisait moyennement. Je rencontrais le problème majeur qu’ont probablement rencontré tous les développeurs dans leur vie, quelle que soit leur technologie : il y avait un intermédiaire entre le client et moi pour établir les contrats au forfait.
@@ -50,7 +50,7 @@ Aujourd’hui, 2 ans plus tard, le meetup a dépassé le millier d’inscrits. L
 J’ai essayé de synthétiser dans le reste de ce document une partie de mes réflexions et de mon expérience afin de vous en faire profiter.
 
 
-##Travailler au forfait
+## Travailler au forfait
 
 
 Trop de gens encore aujourd’hui restent enfermés dans des schémas de travail inefficaces. L’exemple le plus flagrant dans le monde du développement est le contrat au forfait. Un client signe un contrat avec un prestataire dans lequel ce dernier s’engage à livrer dans une durée donnée une liste précise de fonctionnalités.
@@ -63,19 +63,19 @@ Le point clé consiste simplement à être transparent, totalement honnête avec
 
 Partir perdu d’avance, en se disant que de toute manière les clients ne comprennent rien (ce genre de discours est encore trop courant dans le monde des développeurs), marque le début d’une relation déséquilibrée et malsaine avec votre prochain employeur / client. Vous devez prendre le temps de discuter avec lui, d’entendre ses arguments, ses peurs, de le rassurer en lui expliquant clairement pourquoi vous pensez que telle façon de travailler sera tellement plus bénéfique pour lui, en plus de l’être pour vous. Si vous n’avez pas réussi à le convaincre, peut-être faut-il envisager de chercher du travail ailleurs, à moins que vous ne soyez prêt à accepter ses conditions. Mais dans tous les cas, ne le faites pas avec rancœur. Il est souvent difficile de trouver des exemples de cas où le travail à l’heure a pu être vendu. Si vous manquez d’exemples, n’hésitez-pas à citer le mien. Je suis toujours prêt à aider les gens qui ont envie de mieux satisfaire leurs clients.
 
-###Si vous acceptez quelque chose, vous n’avez d’autre choix que de l’assumer.
+### Si vous acceptez quelque chose, vous n’avez d’autre choix que de l’assumer.
 
 Accepter un travail et passer son temps à s’en plaindre n’est pas une attitude qui vous mènera où que ce soit. Attention, cela ne veut pas dire qu’au moment où vous décidez quelque chose il vous est ensuite impossible de changer d’avis. Non, cela veut dire que si vous n’êtes plus satisfait d’un arrangement, vous devez en discuter avec la personne concernée rapidement. Inutile de laisser l’amertume s’installer, il casser la glace aussi tôt que possible. L’une des façons de procéder est très simple : dès que vous commencez à vous plaindre d’un aspect de votre travail à quelqu’un d’autre que la ou les personne(s) directement concernée(s), mémoriser ce reproche et réfléchissez-y : à l’origine se trouve un malaise. Si vous ressentez ce malaise, c’est que quelque chose ne va pas. Si c’est quelque chose que votre client a dit ou fait, vous devez le lui dire (évidemment de la façon la plus diplomatique possible) pour la simple et bonne raison qu’il le mérite : c’est lui qui vous paye, si votre travail pâtit de quelque chose vous devez lui donner l’opportunité de corriger le tir.
 
 
-##Travailler à l’heure
+## Travailler à l’heure
 
 
 Le travail à l’heure s’oppose au travail au forfait de cette manière : un travail au forfait ne vous fait pas vraiment travailler pour un client, mais pour un cahier des charges. Vous ne vous engagez pas à développer les fonctionnalités pour votre client actuel, mais pour celui qu’il était au moment où il a réalisé ce cahier des charges. Étant donné que la totalité des développeurs que j’ai rencontrés dans ma carrière sont tous d’accord pour dire qu’un client ne sait JAMAIS vraiment ce qu’il veut, il me paraît logique de dire qu’accepter de travailler au forfait avec un client sans lui expliquer que ce n’est pas vraiment pour lui que vous allez dans ce cas travailler relève de la malhonnêteté. Car travailler au forfait, c’est accepter un contrat dont vous savez qu’il ne satisfera pas votre client.
 
 En revanche, le travail à l’heure permet de travailler pour le client à l’instant t, et non pas pour la vision erronée qu’il avait dans le passé de son projet.
 
-###Les avantages pour le client :
+### Les avantages pour le client :
 
 Comme vous vendez des heures de travail à votre client, vous êtes obligé de justifier le temps passé sur chaque chose afin qu’il comprenne pourquoi il vous a payé ces heures. Ce qui veut dire que sa compréhension de son projet sera bien plus complète et précise. De plus, la modularité de ce type de contrat lui est extrêmement bénéfique : puisqu’il s’agit de développer les fonctionnalités au fur et à mesure, à chaque étape il peut (et devrait) faire appel à vous pour avoir votre avis en tant que spécialiste technique sur la valeur ajoutée d’une fonctionnalité. Tout développeur sait bien que de nombreuses fonctionnalités horriblement compliquées à développer apportent souvent très peu au projet dans lesquelles elles ont été commandées. Or comme vous devez justifier les heures que vous lui facturez, il est important qu’il sache que ce qu’il vous a demandé risque de prendre énormément de temps (et donc de lui coûter très cher) pour finalement n’apporter qu’une valeur ajoutée très faible à son produit. S’il estime que cette fonctionnalité doit absolument être développée, alors il le fait en connaissance de cause.
 
@@ -83,7 +83,7 @@ De plus, si vous pensez que ce qu’il vous demande sort de votre domaine de com
 
 Vous faîtes ainsi gagner de l’argent à votre client en lui suggérant les solutions les plus adaptées à son problème, et qui vont lui coûter le moins cher à terme. Votre comportement avec lui est transparent et adulte, et il sait que vous faîtes de votre mieux pour l’aider à développer ce qu’il désire VRAIMENT : un produit bien fait (donc solide, donc qui lui coûtera moins d’argent dans le futur en maintenance et améliorations) qui lui rapporte rapidement de l’argent et qui lui coûte le moins cher possible.
 
-###Les avantages pour vous :
+### Les avantages pour vous :
 
 Le plus important des nombreux avantages du travail à l’heure réside dans le fait que vous êtes payé exactement pour ce que vous faîtes, donc à votre juste valeur. Finies les heures de développement imprévues pour la fonctionnalité en dernière page du cahier des charges, celle que vous aviez estimée à une heure de travail, celle dont vous n’aviez pas vue telle difficulté au moment où vous avez signé votre contrat, celle qui va vous faire suer sang et eau, et pour laquelle vous ne toucherez pas un centime de plus que ce qui avait été prévu. Alors même que vous savez pertinemment qu’elle n’apportera absolument rien de plus au projet. Sauf que vous vous êtes engagé avec votre client pour la développer.
 
@@ -92,7 +92,7 @@ Cela ne peut pas arriver si vous travaillez à l’heure. Parce que vous aurez l
 D’autre part, facturer des heures permet également de travailler moins. Tout simplement parce que cela vous oblige à être concentré au maximum pendant vos heures de travail sur le-dit travail, et que vous constaterez rapidement que vous ne pouvez être aussi efficace à la douzième heure qu’à la première. Or, ces heures seront facturées au même prix. Vous devez expliquer à votre client qu’il paiera donc beaucoup moins cher son projet s’il ne vous oblige pas à travailler douze heures par jour. Personnellement, je refuse sauf cas d’urgence de travailler plus de cinq heures par jour. Je sais que je ne suis plus aussi efficace au-delà et l’explique clairement à mes clients.
 
 
-##Les bénéfices de la précarité
+## Les bénéfices de la précarité
 
 
 L’un des principes de base de ma méthode de travail est la précarité. Quand je commence à travailler avec un client, je lui propose de lui vendre cinq heures de travail. S’il hésite, je lui propose du satisfait ou remboursé. Ainsi, je lui montre ce que je suis capable de faire en seulement cinq heures. Cela lui permet d’avoir une idée claire de mon efficacité sans avoir à prendre aucun risque : s’il n’est pas satisfait il sera remboursé jusqu’au dernier centime, sans même avoir à s’expliquer. Jusqu’à maintenant, aucun de mes clients n’a jamais demandé à être remboursé.
@@ -104,7 +104,7 @@ D’autre part, je ne signe jamais de contrat d’exclusivité. Si mon client de
 Dans les relations entre personnes, qu’elles soient personnelles ou professionnelles, maintenir un équilibre sain implique de se remettre en question régulièrement, de faire des efforts pour comprendre l’autre. Votre relation avec votre client ne peut fonctionner que de cette manière : quand vous faites tous les deux des efforts pour comprendre l’autre. Et la précarité empêche d’endormir ces efforts. La garantie que vous donnez ainsi à votre client est la garantie que vous ferez toujours votre possible pour maintenir l’équilibre indispensable à la bonne marche de son projet. Et de son côté, il s’engage à faire de même.
 
 
-##Système gagnant-gagnant
+## Système gagnant-gagnant
 
 
 Pour terminer ce premier aperçu de mon système de travail, je résumerai ce document en quelques mots : système gagnant-gagnant. Le secret d’une collaboration réussie entre un freelance et son client se résume finalement à ce que tout le monde soit content, et donc que tout le monde soit gagnant. Si vous trouvez cet équilibre où vous écoutez autant les besoins du clients que les vôtres, tout ira bien.
